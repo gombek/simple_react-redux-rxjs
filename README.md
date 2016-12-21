@@ -1,5 +1,6 @@
 # simple_react-redux-rxjs
-Simple project - starting point
+Simple project - starting point.
+
 Base on: gombek/simple_redux-react-mocha-enzyme-chai
 
 ## includes
